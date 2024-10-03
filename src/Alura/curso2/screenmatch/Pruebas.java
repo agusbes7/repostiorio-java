@@ -32,5 +32,6 @@ producto.calificacion(9);
 producto.mostrarMultimedia();
 producto.calificacion(8);
 producto.calificacion(9.4);
+        producto.calificacion(7.5);
 System.out.println("La nota promedio es: "+ producto.calculamedia());
     }}
