@@ -19,12 +19,6 @@ String menu= """
     Ingrese la operacion a realizar
         """;
         do {
-    /*        System.out.println("1- saldo actual");
-            System.out.println("2- Ingresar efectivo");
-            System.out.println("3- Retirar efectivo");
-            System.out.println("4- salir");
-            System.out.println("5- cuenta corriente?");
-            System.out.print("Ingrese la operacion a realizar");*/
             System.out.print(menu);
             opcion= aux.nextInt();
 switch (opcion) {
