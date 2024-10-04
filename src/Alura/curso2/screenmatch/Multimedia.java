@@ -25,6 +25,11 @@ public class Multimedia {
         reparto=artistas;                   idioma=lenguajes;
     IncluyePlan=plan;}
 
+    //Como realizo los seteos de los atributos
+    public void setNombre(String nombre) { this.nombre = nombre;}
+    public void setReparto(String reparto) { this.reparto = reparto;    }
+    public void setIncluyePlan(boolean incluyePlan) { IncluyePlan = incluyePlan;    }
+    public void setIdioma(String idioma){ this.idioma=idioma;}
 
     void calificacion(double nota){
         sumaDeEvaluacion+=nota;
