@@ -2,7 +2,7 @@ package Alura.curso2.screenmatch;
 
 public class Pruebas {
     public static void main(String[] args) {
-        Multimedia pelicula = new Multimedia();
+        /*Multimedia pelicula = new Multimedia();
         String reparto = """
                 1- Sylvester Stallone como Rocky Balboa
                 2- Dolph Lundgren como Ivan Drago
@@ -34,4 +34,8 @@ producto.calificacion(8);
 producto.calificacion(9.4);
         producto.calificacion(7.5);
 System.out.println("La nota promedio es: "+ producto.calculamedia());
-    }}
+    }*/
+    Serie supermanAndLois = new Serie();
+
+}
+
