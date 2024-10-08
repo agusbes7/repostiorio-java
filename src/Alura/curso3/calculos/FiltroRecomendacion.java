@@ -1,4 +1,4 @@
-package com.alura.screenmatch.calculos;
+package Alura.curso3.calculos;
 
 public class FiltroRecomendacion {
     private String recomendacion;
