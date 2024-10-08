@@ -35,7 +35,7 @@ producto.calificacion(9.4);
         producto.calificacion(7.5);
 System.out.println("La nota promedio es: "+ producto.calculamedia());
     }*/
-    Serie supermanAndLois = new Serie();
+    Serie2 supermanAndLois = new Serie2();
 
 }
 

@@ -4,7 +4,7 @@ public class episodio {
 private     int duracion,temporada;
     private String titulo;
 private  boolean visible=false;
-private  Serie x;
+private Serie2 x;
     public int getDuracion() {
         return duracion;
     }

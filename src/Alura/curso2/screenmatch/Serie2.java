@@ -1,7 +1,6 @@
 package Alura.curso2.screenmatch;
-import Alura.curso2.screenmatch.episodio;
 
-public class Serie extends Multimedia {
+public class Serie2 extends Multimedia2 {
     private int cantidadTemporadas = 0;
     private int[] episodiosPorTemporada;
 

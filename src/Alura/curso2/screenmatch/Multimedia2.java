@@ -1,6 +1,6 @@
 package Alura.curso2.screenmatch;
 
-public class Multimedia {
+public class Multimedia2 {
     private String nombre, idioma,reparto;
     private int fechaDeLanzamiento=0,   numeroDeEvaluaciones=0;
     private boolean IncluyePlan;
